@@ -1,0 +1,91 @@
+body {
+    background-color: #1c1c1c;
+    color: #f5f5f5;
+    font-family: Arial, sans-serif;
+    text-align: center;
+  }
+  
+  label {
+    display: block;
+    margin-bottom: 10px;
+  }
+  
+  input,
+  select,
+  button {
+    padding: 10px;
+    border: none;
+    border-radius: 5px;
+    font-size: 16px;
+    background-color: #3d3d3d;
+    color: #f5f5f5;
+    margin-bottom: 20px;
+    width: 100%;
+    max-width: 300px;
+  }
+  
+  button {
+    background-color: #2979ff;
+    cursor: pointer;
+  }
+  
+  button:hover {
+    background-color: #2962ff;
+  }
+  
+  #workout-container {
+    margin-top: 20px;
+    font-size: 20px;
+    line-height: 1.5;
+    text-align: left;
+  }
+  
+  #workout-gif {
+    margin-top: 20px;
+  }
+  
+  /* Dark mode styles */
+  body {
+    background-color: #1c1c1c;
+    color: #f5f5f5;
+  }
+  
+  form {
+    display: inline-block;
+    text-align: left;
+    margin: 0 auto;
+  }
+  
+  input,
+  select {
+    background-color: #3d3d3d;
+    color: #f5f5f5;
+    margin-bottom: 20px;
+  }
+  
+  option {
+    background-color: #1c1c1c;
+    color: #f5f5f5;
+  }
+  
+  button {
+    background-color: #2979ff;
+    color: #f5f5f5;
+  }
+  
+  button:hover {
+    background-color: #2962ff;
+  }
+  
+  label {
+    margin-bottom: 10px;
+    display: inline-block;
+  }
+  
+  .main-content {
+    width: 100%;
+    max-width: 600px;
+    margin: 0 auto;
+    text-align: center;
+  }
+  
